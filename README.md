@@ -66,6 +66,15 @@ Links
 - LinkedIn: [raman krishnan](https://www.linkedin.com/in/raman-k-452183243/)  
 - GitHub: [ramankrishnan](https://github.com/ramankrishnan)
 
+
+### 🚀 **Skills and Tools:**
+- **Languages:** Python, HTML, CSS
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, Terraform, Ansible
+- **Cloud:** AWS (EC2, S3, Lambda), Azure
+- **Others:** Git, SonarQube, Trivy
+
+---
+
 😄 Pronouns: **He/Him**  
 
 ⚡ Fun fact: **I love cricket, and I’m merging my passion for the sport with tech by creating advanced cricket scoring systems!**
