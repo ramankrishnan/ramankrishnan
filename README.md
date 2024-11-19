@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Raman! 👋
+<img src="https://your-image-link.com/banner.png" alt="DevOps Banner" style="width:100%; border-radius:10px;" />
 
+# Hi there, I'm Raman! 👋
 
 🔭 I’m currently working on **a DevOps project involving a live cricket match statistics tracker**. It includes advanced features like CI/CD pipelines, Docker, Kubernetes, and predictive scoring models.  
 
@@ -26,6 +27,15 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with **securing a Cloud Engineer role and optimizing the deployment process in my projects using best practices**.  
 
 💬 Ask me about **DevOps tools, setting up CI/CD pipelines, Cloud services (AWS), and Python scripting**.  
+
+📫 How to reach me:  
+- Email: [Premarrow07@gmail.com](mailto:Premarrow07@gmail.com)  
+- LinkedIn: [Premnath Munusamy](https://www.linkedin.com/in/premnath-munusamy-4694091aa/)  
+- GitHub: [ramankrishnan](https://github.com/ramankrishnan)
+
+😄 Pronouns: **He/Him**  
+
+⚡ Fun fact: **I love cricket, and I’m merging my passion for the sport with tech by creating advanced cricket scoring systems!**
 
 Links
 [My GitHub Repositories](https://github.com/ramankrishnan)
