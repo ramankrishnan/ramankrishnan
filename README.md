@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 💬 Ask me about **DevOps tools, setting up CI/CD pipelines, Cloud services (AWS), and Python scripting**.  
 
 📫 How to reach me:  
-- Email: [Premarrow07@gmail.com](mailto:Premarrow07@gmail.com)  
-- LinkedIn: [Premnath Munusamy](https://www.linkedin.com/in/premnath-munusamy-4694091aa/)  
+- Email: [ramankms767@gmail.com](mailto:Premarrow07@gmail.com)  
+- LinkedIn: [Raman Krishnan](https://www.linkedin.com/in/raman-k-452183243/)  
 - GitHub: [ramankrishnan](https://github.com/ramankrishnan)
 
 😄 Pronouns: **He/Him**  
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 Links
 [My GitHub Repositories](https://github.com/ramankrishnan)
 
-![My GitHub Banner](https://via.placeholder.com/1200x400.png?text=Your+Banner+Here)
+
 
 <img src="https://media.giphy.com/media/yourgifurl.gif" width="200" />
 
