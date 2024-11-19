@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fdevops-loop&psig=AOvVaw2gg17GgIW2KlyWaYfEFmSL&ust=1732088772483000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjalNLz54kDFQAAAAAdAAAAABAE" alt="DevOps Banner" style="width:100%; border-radius:10px;" />
+<img src="https://github.com/ramankrishnan/secondproject/blob/main/devops%20images.jpg" alt="DevOps Banner" style="width:100%; border-radius:10px;" />
 
 # Hi there, I'm Raman! 👋
 
