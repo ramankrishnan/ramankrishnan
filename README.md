@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://www.google.com/search?sca_esv=8e300a61fb8ea468&rlz=1C1RXQR_enIN1107IN1107&sxsrf=ADLYWILxD8TyN5KirFV8qVFC57kddISQwQ:1732002230252&q=devops+images&udm=2&fbs=AEQNm0COtQ6qE5snXClm_cWqGTLX_jMP5V4l2v9LemFtanifXUj1LD6QCINf2Stcfc55fHjXaDsk53G1_RLbI386bYLfg5uxHnXRxCjmWjyeQfgzz5MrURzYlk0uFPS63VmHJa3FxUjaA6hy_LLQjV2zUa5GSbVVqk3tsq8i9TipCPfuB5Bsumj4h36_PM6SN6JFsZp8swUc5CAcuzAQKifCeyOe4okZ1w&sa=X&ved=2ahUKEwiVtLyN8-eJAxUM4jgGHf_8LfkQtKgLegQIFxAB#vhid=lVQo-7BiM-k_JM&vssid=mosaic" alt="DevOps Banner" style="width:100%; border-radius:10px;" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fdevops-loop&psig=AOvVaw2gg17GgIW2KlyWaYfEFmSL&ust=1732088772483000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjalNLz54kDFQAAAAAdAAAAABAE" alt="DevOps Banner" style="width:100%; border-radius:10px;" />
 
 # Hi there, I'm Raman! 👋
 
