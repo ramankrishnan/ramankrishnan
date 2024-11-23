@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/ramankrishnan/secondproject/blob/main/devops%20images.jpg" alt="DevOps Banner" style="width:100%; border-radius:10px;" />
+<img src="https://github.com/ramankrishnan/pipeline/blob/main/WhatsApp%20Image%202024-11-23%20at%2012.32.56%20PM.jpeg" alt="DevOps Banner" style="width:100%; border-radius:10px;" />
 
 # Hi there, I'm Raman! 👋
 
